@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **iamdisha/iamdisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 you can reach out to me -disha8700@gmail.com
 - 😄 She/her
 - ⚡ Just another girl who loves coffee, coding and reads to stay alive.
--->
+
