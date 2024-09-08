@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**iamdisha/iamdisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m a SDE enthusiast proficient in data structures and algorithms, machine learning,front end web development, Angular mobile development.
 - 🌱 I’m currently exploring realms of machine learning and AI.
